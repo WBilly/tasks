@@ -1,4 +1,4 @@
-package avazadachi.blogspot.com;
+package javazadachi.blogspot.com;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;

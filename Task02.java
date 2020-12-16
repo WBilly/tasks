@@ -3,6 +3,11 @@ package javazadachi.blogspot.com;
 import java.lang.reflect.Array;
 import java.util.Scanner;
 
+/*
+Создать метод, который будет сортировать указанный массив по возрастанию любым известным вам способом,
+а таже сможет находить максимальное и минимальное число массива.
+ */
+
 public class Task02 {
     public static int size;
     public static int[] arr;

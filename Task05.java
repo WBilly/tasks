@@ -2,6 +2,12 @@ package javazadachi;
 
 import java.util.Scanner;
 
+/*
+Задача 5:
+Создать статический метод, который будет создавать массив из последовательных чисел,
+где начальные и конечные значения - случайные числа от 1 до 10;
+ */
+
 public class Task05 {
     public static void main(String[] args) {
         System.out.print("Please, enter the number of arrays, what you want to create: ");
